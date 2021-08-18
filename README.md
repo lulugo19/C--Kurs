@@ -1,1 +1,3 @@
-"#C-Kurs" 
+#C-Kurs
+-------
+#C-Kurs, um Programmieren beizubringen.
