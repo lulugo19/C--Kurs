@@ -1,0 +1,13 @@
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.exe
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.deps.json
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.runtimeconfig.json
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.runtimeconfig.dev.json
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.dll
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.pdb
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.csprojAssemblyReference.cache
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.AssemblyInfoInputs.cache
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.AssemblyInfo.cs
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.csproj.CoreCompileInputs.cache
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.dll
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.pdb
+D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.genruntimeconfig.cache
