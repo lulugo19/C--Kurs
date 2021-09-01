@@ -11,3 +11,17 @@ D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.csp
 D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.dll
 D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.pdb
 D:\Nachhilfe\CSharp_Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.genruntimeconfig.cache
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.exe
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.deps.json
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.runtimeconfig.json
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.runtimeconfig.dev.json
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.dll
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\bin\Debug\netcoreapp3.1\Zeichenfolgen.pdb
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.csproj.AssemblyReference.cache
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.AssemblyInfoInputs.cache
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.AssemblyInfo.cs
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.csproj.CoreCompileInputs.cache
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.dll
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.pdb
+D:\Programmieren\CSharp-Kurs\Zeichenfolgen\obj\Debug\netcoreapp3.1\Zeichenfolgen.genruntimeconfig.cache

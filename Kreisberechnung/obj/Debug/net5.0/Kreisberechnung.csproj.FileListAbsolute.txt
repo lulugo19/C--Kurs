@@ -1,0 +1,16 @@
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\bin\Debug\net5.0\Kreisberechnung.exe
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\bin\Debug\net5.0\Kreisberechnung.deps.json
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\bin\Debug\net5.0\Kreisberechnung.runtimeconfig.json
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\bin\Debug\net5.0\Kreisberechnung.runtimeconfig.dev.json
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\bin\Debug\net5.0\Kreisberechnung.dll
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\bin\Debug\net5.0\ref\Kreisberechnung.dll
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\bin\Debug\net5.0\Kreisberechnung.pdb
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.csproj.AssemblyReference.cache
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.AssemblyInfoInputs.cache
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.AssemblyInfo.cs
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.csproj.CoreCompileInputs.cache
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.dll
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\ref\Kreisberechnung.dll
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.pdb
+D:\Programmieren\CSharp-Kurs\Kreisberechnung\obj\Debug\net5.0\Kreisberechnung.genruntimeconfig.cache

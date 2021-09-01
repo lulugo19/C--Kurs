@@ -1,0 +1,16 @@
+D:\Programmieren\CSharp-Kurs\Taschenrechner\bin\Debug\net5.0\Taschenrechner.exe
+D:\Programmieren\CSharp-Kurs\Taschenrechner\bin\Debug\net5.0\Taschenrechner.deps.json
+D:\Programmieren\CSharp-Kurs\Taschenrechner\bin\Debug\net5.0\Taschenrechner.runtimeconfig.json
+D:\Programmieren\CSharp-Kurs\Taschenrechner\bin\Debug\net5.0\Taschenrechner.runtimeconfig.dev.json
+D:\Programmieren\CSharp-Kurs\Taschenrechner\bin\Debug\net5.0\Taschenrechner.dll
+D:\Programmieren\CSharp-Kurs\Taschenrechner\bin\Debug\net5.0\ref\Taschenrechner.dll
+D:\Programmieren\CSharp-Kurs\Taschenrechner\bin\Debug\net5.0\Taschenrechner.pdb
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.AssemblyReference.cache
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfoInputs.cache
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfo.cs
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.dll
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\ref\Taschenrechner.dll
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.pdb
+D:\Programmieren\CSharp-Kurs\Taschenrechner\obj\Debug\net5.0\Taschenrechner.genruntimeconfig.cache
