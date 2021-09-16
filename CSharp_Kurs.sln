@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{87FA3963-E7EF-4C2E-8160-9445EB8E525D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreisberechnung", "Kreisberechnung\Kreisberechnung.csproj", "{663F20C5-B3BF-44E3-90AF-34BBC7D25717}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden", "Methoden\Methoden.csproj", "{6217EE00-2866-4DA3-BFF3-7862D20782D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,29 +18,17 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Debug|x64.Build.0 = Debug|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Debug|x86.Build.0 = Debug|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Release|x64.ActiveCfg = Release|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Release|x64.Build.0 = Release|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Release|x86.ActiveCfg = Release|Any CPU
-		{87FA3963-E7EF-4C2E-8160-9445EB8E525D}.Release|x86.Build.0 = Release|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Debug|x64.Build.0 = Debug|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Debug|x86.Build.0 = Debug|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Release|Any CPU.Build.0 = Release|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Release|x64.ActiveCfg = Release|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Release|x64.Build.0 = Release|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Release|x86.ActiveCfg = Release|Any CPU
-		{663F20C5-B3BF-44E3-90AF-34BBC7D25717}.Release|x86.Build.0 = Release|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Debug|x64.Build.0 = Debug|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Debug|x86.Build.0 = Debug|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Release|x64.ActiveCfg = Release|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Release|x64.Build.0 = Release|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Release|x86.ActiveCfg = Release|Any CPU
+		{6217EE00-2866-4DA3-BFF3-7862D20782D4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
