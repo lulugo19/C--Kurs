@@ -50,6 +50,6 @@ class Pokemon
         {
             erweiterteAttacken[i] = Attacken[i];
         }
-
+        erweiterteAttacken[erweiterteAttacken.Length - 1] = attacke; 
     }
 }

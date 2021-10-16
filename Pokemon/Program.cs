@@ -10,8 +10,7 @@ class Program
             Console.WriteLine(i);
         }
         Console.WriteLine("Pokemon!");
-
-        PokemonArt raupi = new PokemonArt("Raupi", "Käfer", 122);
+        ErstellePokemon();
     }
 
     static void ErstellePokemon()
@@ -24,6 +23,7 @@ class Program
 
         Attacke[] attacken = new Attacke[1] { platscher };
         karpi.Attacken = attacken;
+
+        karpi.ErlerneNeueAttacke(tackle);
     }
 }
-
